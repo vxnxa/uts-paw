@@ -1,10 +1,91 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Osiloskop Digital",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "UKR-001",
+    "jumlah": 5,
+    "kondisi": "Perlu servis"
+  },
+
+  {
+    "id": "2",
+    "judul": "Router Mikrotik",
+    "kategori": "Jaringan",
+    "kodeAlat": "JAR-001",
+    "jumlah": 3,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "3",
+    "judul": "Proyektor",
+    "kategori": "Elektronika",
+    "kodeAlat": "EL-001",
+    "jumlah": 5,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "4",
+    "judul": "LAN Tester",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "UKR-002",
+    "jumlah": 10,
+    "kondisi": "Perlu servis"
+  },
+
+  {
+    "id": "5",
+    "judul": "Power Supply",
+    "kategori": "Elektronika",
+    "kodeAlat": "EL-002",
+    "jumlah": 8,
+    "kondisi": "Rusak"
+  },
+
+  {
+    "id": "6",
+    "judul": "Switch 24 Port",
+    "kategori": "Jaringan",
+    "kodeAlat": "JAR-002",
+    "jumlah": 3,
+    "kondisi": "Rusak"
+  },
+
+  {
+    "id": "7",
+    "judul": "Multimeter Digital",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "UKR-003",
+    "jumlah": 5,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "8",
+    "judul": "Kabel UTP Cat6",
+    "kategori": "Jaringan",
+    "kodeAlat": "JAR-003",
+    "jumlah": 20,
+    "kondisi": "Baik"
+  }, 
+
+  {
+    "id": "9",
+    "judul": "Crimping Tool RJ45",
+    "kategori": "Jaringan",
+    "kodeAlat": "JAR-004",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  }, 
+
+  {
+    "id": "10",
+    "judul": "Keyboard dan Mouse Set",
+    "kategori": "Komputer",
+    "kodeAlat": "KOM-001",
+    "jumlah": 6,
+    "kondisi": "Baik"
   }
 ]

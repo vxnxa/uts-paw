@@ -14,3 +14,14 @@ main {
   margin: 0 auto;
   padding: 2rem 1rem;
 }
+
+.kartu {
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
+}
+
+.kartu a {
+  text-decoration: none;
+  color: #1f2328;
+}
