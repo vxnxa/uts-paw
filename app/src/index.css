@@ -25,3 +25,33 @@ main {
   text-decoration: none;
   color: #1f2328;
 }
+
+.aksi {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.hapus {
+  background-color: #e11d48;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 0.8rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.kembali {
+  background-color: #3b82f6;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  padding: 0.6rem 0.8rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.kembali:hover {
+  background-color: #2563eb;
+}

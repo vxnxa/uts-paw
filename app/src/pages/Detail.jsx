@@ -38,10 +38,12 @@ export default function Detail() {
         <dd>{item.kondisi}</dd>
       </dl>
       <div className="aksi">
-        <button type="button" onClick={konfirmasiHapus}>
+        <button type="button" className="hapus" onClick={konfirmasiHapus}>
           Hapus
         </button>
-        <Link to="/koleksi">Kembali</Link>
+        <Link to="/koleksi" className="kembali">
+          Kembali
+        </Link>
       </div>
     </section>
   )
