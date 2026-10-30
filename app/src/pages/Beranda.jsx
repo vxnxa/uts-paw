@@ -16,7 +16,7 @@ export default function Beranda() {
       ) : (
         <p>
           Ada {items.length} item di inventaris.{' '}
-          <Link to="/koleksi">Lihat koleksi</Link>
+          <Link to="/koleksi" className="tombol-koleksi">Lihat koleksi</Link>
         </p>
       )}
     </section>

@@ -55,3 +55,12 @@ main {
 .kembali:hover {
   background-color: #2563eb;
 }
+
+.tombol-koleksi {
+  display: inline-block;
+  text-decoration: none;
+  background: #299170;
+  color: #fff;
+  padding: 0.6rem 0.8rem;
+  border-radius: 5px;
+}
