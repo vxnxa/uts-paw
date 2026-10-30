@@ -14,17 +14,10 @@ export default function Beranda() {
       {loading ? (
         <p>Memuat data...</p>
       ) : (
-        <ul>
-          {items.map((item) => (
-            <li key={item.id}>
-              <h2>{item.judul}</h2>
-              <p>Kategori: {item.kategori}</p>
-              <p>Kode Alat: {item.kodeAlat}</p>
-              <p>Jumlah: {item.jumlah}</p>
-              <p>Kondisi: {item.kondisi}</p>
-            </li>
-          ))}
-        </ul>
+        <p>
+          Ada {items.length} item di inventaris.{' '}
+          <Link to="/koleksi">Lihat koleksi</Link>
+        </p>
       )}
     </section>
   )
