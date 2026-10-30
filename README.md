@@ -6,7 +6,7 @@
 - Tema: Inventaris Laboratorium
 - Deployment: https://github.com/vxnxa/uts-paw.git
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar beranda](docs/image.png)
 
 ## Fitur
 
